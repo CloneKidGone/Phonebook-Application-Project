@@ -14,3 +14,6 @@ Clone the repository: git clone https://github.com/CloneKidGone/phonebook-projec
 Navigate to the project directory.
 Run the main class in your preferred Java IDE.
 Contributing: Feel free to submit pull requests or open issues for any suggestions or improvements!
+
+ #Flowchart 
+ ![WhatsApp Image 2024-10-13 at 23 34 07_e18427cc](https://github.com/user-attachments/assets/433c8111-4479-48dc-b804-14c75bf524fa)
